@@ -12,15 +12,15 @@ A huge thank you to [PCBWay](https://www.pcbway.com/) for supporting this projec
 
 # 2D Layout View
 <img width="1218" height="1193" alt="image" src="https://github.com/user-attachments/assets/dd2cdb1d-b26c-4469-91ee-f7123680f373" />
-_This image showcases the 2D Altium layout_
+*This image showcases the 2D Altium layout*
 
 # Front Side
 <img width="1080" height="1500" alt="image" src="https://github.com/user-attachments/assets/39d1c6ad-53f8-4884-9147-0ac451c12e8d" />
-_This image highlights the frontside of the pcb which contains all the soldered-on components_
+*This image highlights the frontside of the pcb which contains all the soldered-on components*
 
 # Back Side
 <img width="1080" height="1500" alt="image" src="https://github.com/user-attachments/assets/03622e52-091c-410f-9213-f2d8e2a5aff6" />
-_This image highlights the backside of the pcb_
+*This image highlights the backside of the pcb*
 
 # Overview:
 The Telemetry (TEL) board serves as the central data hub for the solar car and interfaces betweenn all of the car's internal sensors and the pitcrew. This board serves as the final destination for all data on the car that requires over-the-air (OTA) transmission. This data includes:
@@ -44,7 +44,7 @@ The telemetry board utilizes the STM32F103RCT6 microcontroller for on-board data
 - Interfaces with a Raspberry Pi and NETGEAR hotspot using UART for reliable cellular communcation
 - Incorporates a reliable asymmetric mounting system for UBC Solar designed and PCBWay-sponsored IMU and GPS breakout boards
 <img width="1505" height="1189" alt="image" src="https://github.com/user-attachments/assets/ae6e4ba9-46a5-4fba-aac2-b172df2b809a" />
-_This image showcases the 3D render of the pcb with all components and 3D bodies_
+*This image showcases the 3D render of the pcb with all components and 3D bodies*
 
 # Design Goals & Requirements
 The Telemetry Rev3.0 was designed with the idea of robustness and future proofing in mind, allowing for further improvements without needing a full redesign. This board considers:
